@@ -115,25 +115,6 @@ Atuo com construção de APIs, arquitetura de aplicações, integração entre s
   <img src="https://img.shields.io/badge/Kanban-0078D7?style=flat-square" />
 </p>
 
-
-
-
-## 📊 GitHub
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=MarinsPedro&show_icons=true&hide_border=true&rank_icon=github"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinsPedro&layout=compact&hide_border=true"
-/>
-
-</div>
-
 ---
 
 ## 📫 Contato
