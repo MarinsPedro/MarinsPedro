@@ -137,6 +137,3 @@ Atuo com construção de APIs, arquitetura de aplicações, integração entre s
 width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"
 />
-
-
-me ajude a deixar mais parecido com a foto
